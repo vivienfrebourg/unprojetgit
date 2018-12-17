@@ -6,7 +6,7 @@
 
 /* Nouvelle ligne uniquement dans la branche test */
 
-Une autre modification sur la même ligne
+Une autre modification sur la meme ligne
 
 using System;
 using System.Collections.Generic;
