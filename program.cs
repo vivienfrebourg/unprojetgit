@@ -4,6 +4,8 @@
 
 /* Nouvelle ligne exemple modification */
 
+/* Nouvelle ligne uniquement dans la branche test */
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
